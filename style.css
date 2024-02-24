@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.diveng
+{
+    float: left;
+}
+
+#english, #chinese
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.divchi
+{
+    float: right;
+}
+
+.song
+{
+    font-size: 30px;
+    margin: 15px;
+}
